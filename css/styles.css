@@ -1,0 +1,11 @@
+p {
+  background-color: rgb(23%, 80%, 55%);
+}
+
+.cooking-steps > li:hover {
+  background-color: #17a067;
+}
+
+.spisok-nav > li {
+  color: rgb(251, 0, 0);
+}
